@@ -1,0 +1,20 @@
+{
+  "name": "web-app-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raveehanaseem/web-app-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raveehanaseem/web-app-project/issues"
+  },
+  "homepage": "https://github.com/Raveehanaseem/web-app-project#readme"
+}
